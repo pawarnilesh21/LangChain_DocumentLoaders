@@ -28,3 +28,6 @@ scikit-learn
 
 #pdf Reading
 pypdf
+
+#webBase Need
+beautifulsoup4
